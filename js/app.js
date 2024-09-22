@@ -1,7 +1,7 @@
 new Swiper('.slider', {
-	//direction: 'vertical',
+	direction: 'horizontal',
 	// freeMode: true,
-	speed: 2400,
+	speed: 2900,
 	parallax: true,
 	spaceBetween: 1,
 	mousewheel: {
